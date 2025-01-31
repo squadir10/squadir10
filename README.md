@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @squadir10
-- 👀 I’m interested in game developement, video games, history, art, military, and more!
-- 🌱 I’m currently learning computer science
-- 🖥 My main language is C# for Unity and other fun projects!
+- 👀 I'm interested in cybersecurity, UI/UX, Cloud, and game development
+- 🌱 Bachelors in computer science
+- 🖥 My main languages are SQL, Python, C/C#/C++, and Javascript
 
 
 
